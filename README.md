@@ -49,9 +49,6 @@ O pet chama Flor e tem 1 ano
 O pet chama Kiara e tem 2 anos
 ```
 
-## 📌 Contribution
-Feel free to contribute by submitting issues or pull requests. 🚀
-
 ## 📜 License
 This project is open-source and available under the MIT License.
 
