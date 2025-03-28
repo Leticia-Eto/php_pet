@@ -29,8 +29,8 @@ It also includes:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Leticia-Eto/php_pet-php.git
-cd pet-management-php
+git clone https://github.com/Leticia-Eto/php_pet.git
+cd php_pet
 ```
 
 ### 2. Run the Code
